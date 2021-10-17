@@ -18,11 +18,11 @@ Decision Tree Classifier is used for prediction of breast cancer.Random Forest C
 
 ## Screenshot
 Image \
-![](image.jpeg)\
+![](image.JPG)\
 Input\
-![](in1.jpeg)\
+![](in1.JPG)\
 Output\
-![](out1.jpeg)\
+![](out1.JPG)\
 
 
  
